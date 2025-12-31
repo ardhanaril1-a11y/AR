@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ardhanari L | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <div class="container">
+      <h1>Ardhanari L</h1>
+      <p class="tagline">Web Developer | Designer | Creative Thinker</p>
+    </div>
+  </header>
+
+  <!-- About Section -->
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <div class="about-content">
+        <img src="profile.jpg" alt="Profile Picture">
+        <p>Hello! I am Ardhanari, a passionate web developer with skills in HTML, CSS, and JavaScript. I enjoy building creative and responsive websites that solve real-world problems.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills">
+    <div class="container">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML & CSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Responsive Web Design</li>
+        <li>UI/UX Design</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <div class="project-card">
+        <img src="project1.jpg" alt="Project 1">
+        <h3>Project Title 1</h3>
+        <p>Brief description of the project and technologies used.</p>
+      </div>
+      <div class="project-card">
+        <img src="project2.jpg" alt="Project 2">
+        <h3>Project Title 2</h3>
+        <p>Brief description of the project and technologies used.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Resume Section -->
+  <section id="resume">
+    <div class="container">
+      <h2>Resume</h2>
+      <a href="resume.pdf" download class="btn">Download My Resume</a>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Me</h2>
+      <p>Email: <a href="mailto:example@email.com">example@email.com</a></p>
+      <p>Phone: +91 1234567890</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Ardhanari L. All Rights Reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
